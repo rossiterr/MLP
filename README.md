@@ -1,4 +1,4 @@
-# Projeto Mini-projeto MLP: Classificação de Sobrevivência no Titanic
+# MLP: Classificação de Sobrevivência no Titanic
 
 ---
 
